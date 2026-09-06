@@ -1,9 +1,9 @@
 # RAG-Local-Retrieval-Augmented-Generation
-A 100% local, private Wikipedia RAG Chatbot &amp; interactive Terminal Agent powered by Ollama (LLaMA 3), LangChain, ChromaDB, and FastAPI. Real-time topic indexing, verifiable citations, and zero cloud API costs.
+A 100% local, private Wikipedia RAG Chatbot &amp; interactive Terminal Agent powered by Ollama (LLaMA 3), LangChain, ChromaDB, and FastAPI. Real-time topic indexing, verifiable citations, and zero cloud API costs. If need any help contact me in profile have linkedin profile link.
 
 # 🧠 WikiAgent: Local Wikipedia RAG Chatbot & Terminal Agent
 
-A 100% private, local, Wikipedia-grounded conversational agent powered by **Ollama**, **LangChain**, **ChromaDB**, and **Wikipedia-API**. Supports both an interactive **Rich Terminal CLI Agent** and a production-ready **FastAPI REST API**.
+A 100% private, local, Wikipedia-grounded conversational agent powered by **Ollama**, **LangChain**, **ChromaDB**, and **Wikipedia-API**. Supports both an interactive **Rich Terminal CLI Agent** and a production-ready **FastAPI REST API**. If need any help contact me in profile have linkedin profile link.
 
 ---
 
